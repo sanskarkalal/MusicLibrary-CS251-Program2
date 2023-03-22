@@ -1,0 +1,3 @@
+C:/Users/Sanskar/CLionProjects/music-lib/cmake-build-debug/CMakeFiles/music_lib.dir
+C:/Users/Sanskar/CLionProjects/music-lib/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sanskar/CLionProjects/music-lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
